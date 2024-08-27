@@ -36,7 +36,7 @@ age,blood_pressure,specific_gravity,albumin,sugar,rbc,pc,pcc,ba,blood_glucose_ra
 70,70,1.010,1,0,normal,?,present,present,171,153,5.2,?,?,?,?,?,?,no,yes,no,poor,no,no,ckd
 65,90,1.020,2,1,abnormal,normal,notpresent,notpresent,270,39,2.0,?,?,12.0,36,9800,4.9,yes,yes,no,poor,no,yes,ckd
 76,70,1.015,1,0,normal,normal,notpresent,notpresent,92,29,1.8,133,3.9,10.3,32,?,?,yes,no,no,good,no,no,ckd
-72,80,?,?,?,?,?,notpresent,notpresent,137,65,3.4,141,4.7,9.7,28,6900,2.5,yes,yes,no,poor,no,yes,ckd	
+72,80,?,?,?,?,?,notpresent,notpresent,137,65,3.4,141,4.7,9.7,28,6900,2.5,yes,yes,no,poor,no,yes,ckd
 69,80,1.020,3,0,abnormal,normal,notpresent,notpresent,?,103,4.1,132,5.9,12.5,?,?,?,yes,no,no,good,no,no,ckd
 82,80,1.010,2,2,normal,?,notpresent,notpresent,140,70,3.4,136,4.2,13.0,40,9800,4.2,yes,yes,no,good,no,no,ckd
 46,90,1.010,2,0,normal,abnormal,notpresent,notpresent,99,80,2.1,?,?,11.1,32,9100,4.1,yes,no,	no,good,no,no,ckd
@@ -229,7 +229,7 @@ age,blood_pressure,specific_gravity,albumin,sugar,rbc,pc,pcc,ba,blood_glucose_ra
 57,80,1.015,0,0,?,normal,notpresent,notpresent,120,48,1.6,?,?,11.3,36,7200,3.8,yes,yes,no,good,no,no,ckd
 60,70,?,?,?,?,?,notpresent,notpresent,124,52,2.5,?,?,?,?,?,?,yes,no,no,good,no,no,ckd
 59,50,1.010,3,0,normal,abnormal,notpresent,notpresent,241,191,12.0,114,2.9,9.6,31,15700,3.8,no,yes,no,good,yes,no,ckd
-65,60,1.010,2,0,normal,abnormal,present,notpresent,192,17,1.7,130,4.3,?,?,9500,?,yes,yes,no,poor,no,no,ckd	
+65,60,1.010,2,0,normal,abnormal,present,notpresent,192,17,1.7,130,4.3,?,?,9500,?,yes,yes,no,poor,no,no,ckd
 60,90,?,?,?,?,?,notpresent,notpresent,269,51,2.8,138,3.7,11.5,35,?,?,yes,yes,yes,good,yes,no,ckd
 50,90,1.015,1,0,abnormal,abnormal,notpresent,notpresent,?,?,?,?,?,?,?,?,?,no,no,no,good,yes,no,ckd
 51,100,1.015,2,0,normal,normal,notpresent,present,93,20,1.6,146,4.5,?,?,?,?,no,no,no,poor,no,no,ckd
