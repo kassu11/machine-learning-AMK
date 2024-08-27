@@ -1,4 +1,4 @@
-age,blood_pressure,specific_gravity,albumin,sugar,rbc,pc,pcc,ba,blood_glucose_random,blood_urea,su,sodium,hemoglobin,packed_cell_volume,white_blood_cell_count,red_blood_cell_count,htn,dm,cad,appet,pe,ane,class
+age,blood_pressure,specific_gravity,albumin,sugar,rbc,pc,pcc,ba,blood_glucose_random,blood_urea,su,sodium,potassium,hemoglobin,packed_cell_volume,white_blood_cell_count,red_blood_cell_count,htn,dm,cad,appet,pe,ane,class
 48,80,1.020,1,0,?,normal,notpresent,notpresent,121,36,1.2,?,?,15.4,44,7800,5.2,yes,yes,no,good,no,no,ckd
 7,50,1.020,4,0,?,normal,notpresent,notpresent,?,18,0.8,?,?,11.3,38,6000,?,no,no,no,good,no,no,ckd
 62,80,1.010,2,3,normal,normal,notpresent,notpresent,423,53,1.8,?,?,9.6,31,7500,?,no,yes,no,poor,no,yes,ckd
