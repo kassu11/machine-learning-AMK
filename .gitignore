@@ -1,2 +1,7 @@
 /.idea/
 /venv/
+/neural_networks/.ipynb_checkpoints/
+/neural_networks/dogs-vs-cats/
+/neural_networks/dogs-vs-cats2/
+/neural_networks/custom/
+/neural_networks/*.keras/
