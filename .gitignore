@@ -5,3 +5,6 @@
 /neural_networks/dogs-vs-cats2/
 /neural_networks/custom/
 /neural_networks/*.keras/
+neural_networks/feature_extraction.keras
+neural_networks/convnet_from_scratch_with_augmentation.keras
+neural_networks/convnet_from_scratch.keras
