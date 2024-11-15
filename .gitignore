@@ -8,3 +8,4 @@
 neural_networks/feature_extraction.keras
 neural_networks/convnet_from_scratch_with_augmentation.keras
 neural_networks/convnet_from_scratch.keras
+neural_networks/transformers/seq2seqrnn.keras
