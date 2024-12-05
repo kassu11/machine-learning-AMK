@@ -9,3 +9,8 @@ neural_networks/feature_extraction.keras
 neural_networks/convnet_from_scratch_with_augmentation.keras
 neural_networks/convnet_from_scratch.keras
 neural_networks/transformers/seq2seqrnn.keras
+/neural_networks/transformers/aclImdb
+neural_networks/transformers/text_gen.keras
+neural_networks/transformers/seq2seqrnn-60-epochi.keras
+/neural_networks/transformers/.ipynb_checkpoints
+neural_networks/neural-style-transfer/.ipynb_checkpoints/NeuralStyleTransfer-checkpoint.ipynb
